@@ -1,0 +1,5 @@
+name | address | category
+Bob | testAdd2 | 3
+Jack | testAdd4 | 5
+Joshua | 789 Pine St | 3
+Leo | testAdd5 | 4
